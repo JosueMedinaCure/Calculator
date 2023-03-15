@@ -74,7 +74,7 @@ section {
     background-color: aqua;
     display: flex;
 }
-.display, .displayOperator{
+.display{
     overflow: hidden;
     align-items: center;
     background-color: rgba(92, 92, 92, 0.847);
